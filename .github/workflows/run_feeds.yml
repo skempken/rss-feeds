@@ -45,7 +45,7 @@ jobs:
           uv venv
           source .venv/bin/activate
           uv pip install -r requirements.txt
-          python feed_generators/run_all_feeds.py
+          python feed_generators/claude_blog.py
 
       - name: Commit and push feed
         run: |
