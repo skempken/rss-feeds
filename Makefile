@@ -123,6 +123,9 @@ generate_xainews_feed: feeds_xainews ## (Legacy) Generate xAI News feed
 .PHONY: generate_thinkingmachines_feed
 generate_thinkingmachines_feed: feeds_thinkingmachines ## (Legacy) Generate Thinking Machines Lab feed
 
+.PHONY: generate_claude_blog_feed
+generate_claude_blog_feed: feeds_claude_blog ## (Legacy) Generate Claude Blog feed
+
 .PHONY: test_feed_workflow
 test_feed_workflow: ci_test_workflow_local ## (Legacy) Test feed workflow locally
 

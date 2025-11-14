@@ -86,6 +86,13 @@ feeds_thinkingmachines: ## Generate RSS feed for Thinking Machines Lab blog
 	$(Q)python feed_generators/thinkingmachines_blog.py
 	$(call print_success,Thinking Machines Lab feed generated)
 
+.PHONY: feeds_claude_blog
+feeds_claude_blog: ## Generate RSS feed for Claude Blog
+	$(call check_venv)
+	$(call print_info,Generating Claude Blog feed)
+	$(Q)python feed_generators/claude_blog.py
+	$(call print_success,Claude Blog feed generated)
+
 .PHONY: clean_feeds
 clean_feeds: ## Clean generated RSS feed files
 	$(call print_warning,Removing generated RSS feeds)
