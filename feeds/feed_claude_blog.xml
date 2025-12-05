@@ -13,14 +13,14 @@
       <link>https://claude.com/blog/feed_claude_blog.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Dec 2025 00:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 06:07:52 +0000</lastBuildDate>
     <item>
       <title>What are the key benefits of transitioning to agentic coding for software development?</title>
       <link>https://claude.com/blog/key-benefits-transitioning-agentic-coding</link>
       <description>Learn how agentic coding with Claude Code accelerates development timelines, simplifies onboarding, and helps teams ship better software faster.</description>
       <guid isPermaLink="false">https://claude.com/blog/key-benefits-transitioning-agentic-coding</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:37 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:49 +0000</pubDate>
     </item>
     <item>
       <title>Using CLAUDE.md files: Customizing Claude Code for your codebase</title>
@@ -28,7 +28,7 @@
       <description>Learn how to use CLAUDE.md files to give Claude Code persistent context about your project structure, coding standards, and workflows.</description>
       <guid isPermaLink="false">https://claude.com/blog/using-claude-md-files</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:37 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:49 +0000</pubDate>
     </item>
     <item>
       <title>Whatâs new in Claude: Turning Claude into your thinking partner</title>
@@ -36,7 +36,7 @@
       <description>Your best work takes iteration. Claude now stays with you through the processâremembering context, talking through ideas, and turning them into real work.</description>
       <guid isPermaLink="false">https://claude.com/blog/your-thinking-partner</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:38 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:49 +0000</pubDate>
     </item>
     <item>
       <title>How to create Skills: Key steps, limitations, and examples</title>
@@ -44,7 +44,7 @@
       <description>Learn how to write custom skills that extend Claude's capabilities. Follow our 5-step guide with real examples to build specialized workflows for your tasks.</description>
       <guid isPermaLink="false">https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:38 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:50 +0000</pubDate>
     </item>
     <item>
       <title>How three YC startups built their companies with Claude Code</title>
@@ -52,7 +52,7 @@
       <description>Learn how three YC startups use Claude Code to ship products faster, win government contracts, and scale AI-powered platforms with agentic coding workflows.</description>
       <guid isPermaLink="false">https://claude.com/blog/building-companies-with-claude-code</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:39 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:50 +0000</pubDate>
     </item>
     <item>
       <title>Structured outputs on the Claude Developer Platform</title>
@@ -60,7 +60,7 @@
       <description>Structured outputs on the Claude Developer Platform guarantee API responses match your JSON schemas and tool definitions. Now in public beta for Sonnet 4.5 and Opus 4.1, this feature eliminates parsing errors and failed tool calls for production applications.</description>
       <guid isPermaLink="false">https://claude.com/blog/structured-outputs-on-the-claude-developer-platform</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:39 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:50 +0000</pubDate>
     </item>
     <item>
       <title>Skills explained: How Skills compares to prompts, Projects, MCP, and subagents</title>
@@ -68,7 +68,7 @@
       <description>Skills are an increasingly powerful tool for creating custom AI workflows and agents, but where do they fit in the Claude stack? We explain what tool to use when - and how they all work together.</description>
       <guid isPermaLink="false">https://claude.com/blog/skills-explained</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:39 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:51 +0000</pubDate>
     </item>
     <item>
       <title>Best practices for prompt engineering</title>
@@ -76,7 +76,7 @@
       <description>Master the art of prompt engineering with Claude.</description>
       <guid isPermaLink="false">https://claude.com/blog/best-practices-for-prompt-engineering</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:40 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:51 +0000</pubDate>
     </item>
     <item>
       <title>Building AI agents for startups</title>
@@ -84,7 +84,7 @@
       <description>For resource-constrained startups, AI agents autonomously handle complex processes, reclaiming founder time, providing expert-level capabilities, and maintaining quality while moving fast.</description>
       <guid isPermaLink="false">https://claude.com/blog/building-ai-agents-for-startups</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:40 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:51 +0000</pubDate>
     </item>
     <item>
       <title>What is Model Context Protocol? Connect AI to your world</title>
@@ -92,7 +92,7 @@
       <description>Connect AI assistants to your tools without custom integrations using Model Context Protocol. AI models are only as good as the context provided to them. AI assistants like Claude can answer questions and perform an impressive range of tasks, but if they can't access the data or tools they need,...</description>
       <guid isPermaLink="false">https://claude.com/blog/what-is-model-context-protocol</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:41 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:51 +0000</pubDate>
     </item>
     <item>
       <title>Introduction to agentic coding</title>
@@ -100,7 +100,7 @@
       <description>Move from fragmented AI code snippets to deploying integrated features with agentic coding that understands your entire codebase. AI-assisted coding has evolved rapidly over the last few years. Tools that once suggested the next line now predict entire functions by analyzing patterns in your code.</description>
       <guid isPermaLink="false">https://claude.com/blog/introduction-to-agentic-coding</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:41 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:52 +0000</pubDate>
     </item>
     <item>
       <title>Building AI agents for healthcare and life sciences</title>
@@ -108,7 +108,7 @@
       <description>AI agents are delivering measurable results in healthcare and life sciences while navigating the industry's unique regulatory complexity and safety standards. Here's how.</description>
       <guid isPermaLink="false">https://claude.com/blog/building-ai-agents-in-healthcare-and-life-sciences</guid>
       <category>Blog</category>
-      <pubDate>Fri, 05 Dec 2025 00:20:42 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 06:07:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
