@@ -13,14 +13,14 @@
       <link>https://claude.com/blog/feed_claude_blog.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jan 2026 18:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 00:23:34 +0000</lastBuildDate>
     <item>
       <title>Extending Claudeâs capabilities with skills and MCP servers</title>
       <link>https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</link>
       <description>Learn how skills and MCP work together to build agents that follow your workflows and use external tools effectively. Best practices and real-world examples.</description>
       <guid isPermaLink="false">https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:12 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:29 +0000</pubDate>
     </item>
     <item>
       <title>Skills for organizations, partners, the ecosystem</title>
@@ -28,7 +28,7 @@
       <description>In October, we introduced skillsâa way to teach Claude repeatable workflows tailored to how you work. Today we're making skills easier to deploy, discover, and build: organization-wide management for admins; a directory of partner-built skills from Notion, Canva, Figma, Atlassian, and others; and an open standard so skills work across AI platforms.</description>
       <guid isPermaLink="false">https://claude.com/blog/organization-skills-and-directory</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:13 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:30 +0000</pubDate>
     </item>
     <item>
       <title>Making Claude a better electrical engineer</title>
@@ -36,7 +36,7 @@
       <description>Anthropic partnered with Diode Computers to improve Claude's ability to auto-generate PCB reference designs in the Zener language, with measurable gains in Sonnet 4.5.</description>
       <guid isPermaLink="false">https://claude.com/blog/making-claude-a-better-electrical-engineer</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:13 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:30 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code power user customization: How to configure hooks</title>
@@ -44,7 +44,7 @@
       <description>Learn how to configure Claude Code hooks to automate repetitive tasks, enforce project rules, and inject dynamic context into your coding sessions.</description>
       <guid isPermaLink="false">https://claude.com/blog/how-to-configure-hooks</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:13 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:31 +0000</pubDate>
     </item>
     <item>
       <title>How Anthropic's legal team cut review times from days to hours with Claude</title>
@@ -52,7 +52,7 @@
       <description>Legal teams spend hours on routine tasks like contract redlining and marketing reviews. Learn how Anthropic's legal team uses Claude to build workflows that cut review times from days to hoursâno coding required.</description>
       <guid isPermaLink="false">https://claude.com/blog/how-anthropic-uses-claude-legal</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:14 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:31 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code and Slack</title>
@@ -60,7 +60,7 @@
       <description>Now you can tag @Claude in Slack to spin up Claude Code sessions automatically. Turn bug reports and feature requests into code fixes, get status updates in your thread, and open pull requestsâall without leaving Slack.</description>
       <guid isPermaLink="false">https://claude.com/blog/claude-code-and-slack</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:14 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:31 +0000</pubDate>
     </item>
     <item>
       <title>What are the key benefits of transitioning to agentic coding for software development?</title>
@@ -68,7 +68,7 @@
       <description>Learn how agentic coding with Claude Code accelerates development timelines, simplifies onboarding, and helps teams ship better software faster.</description>
       <guid isPermaLink="false">https://claude.com/blog/key-benefits-transitioning-agentic-coding</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:15 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:32 +0000</pubDate>
     </item>
     <item>
       <title>Using CLAUDE.md files: Customizing Claude Code for your codebase</title>
@@ -76,7 +76,7 @@
       <description>Learn how to use CLAUDE.md files to give Claude Code persistent context about your project structure, coding standards, and workflows.</description>
       <guid isPermaLink="false">https://claude.com/blog/using-claude-md-files</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:15 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:32 +0000</pubDate>
     </item>
     <item>
       <title>Whatâs new in Claude: Turning Claude into your thinking partner</title>
@@ -84,7 +84,7 @@
       <description>Your best work takes iteration. Claude now stays with you through the processâremembering context, talking through ideas, and turning them into real work.</description>
       <guid isPermaLink="false">https://claude.com/blog/your-thinking-partner</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:15 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:33 +0000</pubDate>
     </item>
     <item>
       <title>How to create Skills: Key steps, limitations, and examples</title>
@@ -92,7 +92,7 @@
       <description>Learn how to write custom skills that extend Claude's capabilities. Follow our 5-step guide with real examples to build specialized workflows for your tasks.</description>
       <guid isPermaLink="false">https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:16 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:33 +0000</pubDate>
     </item>
     <item>
       <title>How three YC startups built their companies with Claude Code</title>
@@ -100,7 +100,7 @@
       <description>Learn how three YC startups use Claude Code to ship products faster, win government contracts, and scale AI-powered platforms with agentic coding workflows.</description>
       <guid isPermaLink="false">https://claude.com/blog/building-companies-with-claude-code</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:16 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:34 +0000</pubDate>
     </item>
     <item>
       <title>Structured outputs on the Claude Developer Platform</title>
@@ -108,7 +108,7 @@
       <description>Structured outputs on the Claude Developer Platform guarantee API responses match your JSON schemas and tool definitions. Now in public beta for Sonnet 4.5 and Opus 4.1, this feature eliminates parsing errors and failed tool calls for production applications.</description>
       <guid isPermaLink="false">https://claude.com/blog/structured-outputs-on-the-claude-developer-platform</guid>
       <category>Blog</category>
-      <pubDate>Sat, 17 Jan 2026 18:07:17 +0000</pubDate>
+      <pubDate>Sun, 18 Jan 2026 00:23:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
